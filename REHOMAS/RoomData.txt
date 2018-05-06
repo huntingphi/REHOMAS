@@ -1,0 +1,5 @@
+{"confirmed":true,"costPerExtra":1200,"costPerRoom":1200,"endDate":"\/Date(1485554400000+0200)\/","numPeople":1,"refNo":"112","startDate":"\/Date(1484690400000+0200)\/","totalCost":12000}
+{"confirmed":true,"costPerExtra":1200,"costPerRoom":1200,"endDate":"\/Date(1485554400000+0200)\/","numPeople":1,"refNo":"113","startDate":"\/Date(1484690400000+0200)\/","totalCost":12000}
+{"confirmed":true,"costPerExtra":1200,"costPerRoom":1200,"endDate":"\/Date(1485554400000+0200)\/","numPeople":1,"refNo":"114","startDate":"\/Date(1484690400000+0200)\/","totalCost":12000}
+{"confirmed":true,"costPerExtra":1200,"costPerRoom":1200,"endDate":"\/Date(1485554400000+0200)\/","numPeople":1,"refNo":"113","startDate":"\/Date(1484690400000+0200)\/","totalCost":12000}
+{"confirmed":true,"costPerExtra":1200,"costPerRoom":1200,"endDate":"\/Date(1485554400000+0200)\/","numPeople":1,"refNo":"113","startDate":"\/Date(1484690400000+0200)\/","totalCost":12000}

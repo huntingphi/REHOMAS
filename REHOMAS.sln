@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REHOMAS", "REHOMAS\REHOMAS.csproj", "{BC4FAED7-CC31-47CE-9A29-FD8D6B300D20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4FAED7-CC31-47CE-9A29-FD8D6B300D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4FAED7-CC31-47CE-9A29-FD8D6B300D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4FAED7-CC31-47CE-9A29-FD8D6B300D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4FAED7-CC31-47CE-9A29-FD8D6B300D20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06D7D72A-D6BA-4750-9716-F5C708B2D666}
+	EndGlobalSection
+EndGlobal
